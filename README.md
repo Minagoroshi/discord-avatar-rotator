@@ -11,7 +11,7 @@ Sadly it has to be ratelimited to 1 minute 45 seconds, because discord needs peo
 3. Open the `token` file and paste your discord token inside.
 4. Add the avatars you want to rotate in the `avatars` folder. (Only PNGs Supported ATM)
 6. Extract the contents of the zip file you downloaded.
-5. Compile the program by first opening a terminal and changing directory to the discord-avatar-rotator folder `cd C:\Users\[USER]\Downloads\discord-avatar-rotator'. Then run `go build` to compile the program.
+5. Compile the program by first opening a terminal and changing directory to the discord-avatar-rotator folder `cd C:\Users\[USER]\Downloads\discord-avatar-rotator`. Then run `go build` to compile the program.
 6. Run the program by typing `./discord-avatar-rotator` in the terminal. Or double click the executable file.
 
 ## Configuration Options
