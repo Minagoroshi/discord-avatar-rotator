@@ -2,6 +2,8 @@
 
 This program rotates your Discord avatar every 1 minute 45 seconds. It's perfect for keeping your profile fresh and interesting!
 
+Sadly it has to be ratelimited to 1 minute 45 seconds, because discord needs people to buy nitro.
+
 ## How to Use
 
 1. Download the program from [GitHub](https://github.com/minagoroshi/discord-avatar-rotator).
